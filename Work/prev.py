@@ -1,0 +1,7 @@
+print("Chris, pick a number")
+num1 = input()
+print("Chris pick another number")
+num2=input()
+print(type(num2))
+AddbothNumber = int(num1) + int(num2)
+print(AddbothNumber)
